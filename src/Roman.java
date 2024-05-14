@@ -16,4 +16,7 @@ public enum Roman {
         this.translation = translation;
     }
 
+    int getTranslation() {
+        return translation;
+    }
 }
